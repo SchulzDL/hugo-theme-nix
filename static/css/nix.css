@@ -187,3 +187,9 @@ td {
 		font-size: 80%;
 	}
 }
+.left, .alignLeft {
+    float: left;	
+}
+.right, .alignright {
+    float: right;	
+}
